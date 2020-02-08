@@ -1,0 +1,21 @@
+body
+{
+    background-color:black;
+    color:cadetblue;
+    /*text-align: center;*/
+}
+
+.heading {
+    padding: left 50%;
+    padding-top:5%;
+    color:white
+}
+#image 
+{
+    height:20%;
+    width:20%;
+    padding-left: 50%;
+    position: relative ;
+    /*center;*/
+
+}
